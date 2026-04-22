@@ -1,0 +1,17 @@
+* {
+    background-color: lightblue;
+    margin: 0;
+}
+
+ul li {
+    background-color: salmon;
+    width: 80%;
+    margin: auto;
+    border: 5% solid black;
+}
+
+div {
+    margin: 3em;
+    display: flex;
+    justify-content: space-evenly;
+}
